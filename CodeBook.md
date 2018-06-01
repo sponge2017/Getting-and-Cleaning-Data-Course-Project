@@ -1,19 +1,9 @@
----
-title: "Code Book"
-author: "spong2017"
-date: "June 1, 2018"
-output: html_document
----
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Code book for Getting and Cleaning Data course project
 
 In "tidy data.txt" files, there are 81 fields
 
-### observation Identifiers
+### Observation Identifiers
 * Subject: integer, with value range: 1 to 30
 * Activity: factor with 6 levels: LAYING, SITTING, STANDING, WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS
 
