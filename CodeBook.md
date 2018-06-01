@@ -1,11 +1,11 @@
 
 ## Code book for Getting and Cleaning Data course project
 
-In "tidy data.txt" files, there are 81 fields
+In "tidy data.txt" files, there are 81 fields in total. They are listed either in "Observation Identifiers" or "Measurements" group below.
 
 ### Observation Identifiers
-* Subject: integer, with value range: 1 to 30
-* Activity: factor with 6 levels: LAYING, SITTING, STANDING, WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS
+* Subject: integer, with value range: 1 to 30. It is the ID for each participant of the experiment.
+* Activity: factor with 6 levels: LAYING, SITTING, STANDING, WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS. They are the activities of the participants that were measured during the experiment.
 
 ### Measurements
 * tBodyAccMeanX_mean: num
