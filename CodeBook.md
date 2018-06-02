@@ -1,7 +1,7 @@
 
 ## Code book for Getting and Cleaning Data course project
 
-In "tidy data.txt" files, there are 81 fields in total. They are listed either in "Observation Identifiers" or "Measurements" group below.
+In "tidy data.txt" files, there are 180 records/observations and 81 fields(2 identiafier fields and 79 variables) in total. They are listed either in "Observation Identifiers" or "Measurements" group below.
 
 ### Observation Identifiers
 * Subject: integer, with value range: 1 to 30. It is the ID for each participant of the experiment.
